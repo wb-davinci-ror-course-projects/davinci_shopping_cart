@@ -9,7 +9,12 @@
 
 ### Usage:
 
-https://gist.github.com/bdd097fd251d9aa5cff9.git
+>### Clone the repo locally
+>### cd into that directory
+>### bundle
+>### rails s
+
+Visit your copy at http://localhost:3000
 
 
 
